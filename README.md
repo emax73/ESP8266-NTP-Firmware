@@ -12,7 +12,7 @@ eagle.irom0text.bin---->0x40000
 
 Commands:
 
-AT+NTP - Initialisation of NTP (GMT+0)
+AT+NTP - Initialization of NTP (GMT+0)
 
 AT+NTP? - print (GMT+0) time in text kind and 
 seconds since 1 Jan 1970 between (....) brackets for machine parsing,
