@@ -5,7 +5,9 @@ builded on SDK 1.2.0 for 1024 MB Flash
 sources at ntp subdirrectory;
 
 binaries: bin subdirrectory:
+
 eagle.flash.bin-------->0x00000
+
 eagle.irom0text.bin---->0x40000
 
 Commands:
